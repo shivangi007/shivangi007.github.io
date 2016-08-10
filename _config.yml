@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://shivangi007.github.io
+title: Shivangi's Research
+tagline: A log of everyday life
+description: This site is for people who like to follow the research areas on Microsoft's new product, Touch Develop. Whatever I find, is going to be here...
+paginate: 5
